@@ -10,10 +10,10 @@
 
 6. copy the code from GitHub file, then go to the ~modules/contrib/feeds_fetcher_headers/src/Feeds/Fetcher/HttpFetcherHeaders.php and replace all code
 7. lando drush cr
-8. go to the feed which you are working with and put inside of "Scope" some of:
-   customers:read
-   invoices:read
-   projects:read
+8. go to the feed which you are working with and put inside of "Scope" some of:<br/>
+   customers:read<br/>
+   invoices:read<br/>
+   projects:read<br/>
    etc.
    save and make an import.
 9. hope it helps...
