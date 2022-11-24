@@ -1,5 +1,5 @@
 1. install https://www.drupal.org/project/feeds_fetcher_headers
-2. activate (like landro drush en...)feeds_fetcher_headers.
+2. activate (like lando drush en...)feeds_fetcher_headers.
 3. install https://www.drupal.org/project/key
 4. activate Key module as usual (drush or from UI)
 5. go to the https://your_site/admin/config/system/keys and set two keys (please be carefull with capital letters and spaces, follow to the screenshots):
